@@ -130,7 +130,7 @@ function Texts() {
           Wishing you happy and healthy. {'\n\n'}May your Christmas be blessed with lots of love, peace, and happiness.
         </Text>
         <Text maxWidth={2.5} textAlign="center" position={[0, 11.2, 0]} fillOpacity={0.6} fontSize="0.1">
-          Great things are coming in 2024. Please stay strong.
+          Great things are coming in {new Date().getFullYear() + 1}. Please stay strong.
         </Text>
         <Text maxWidth={1.5} textAlign="center" position={[0, 10.8, 0]} fontSize="0.08">
           Santa Claus
