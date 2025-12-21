@@ -1,4 +1,4 @@
-# Merry Christmas Globe
+# Merry Christmas 2
 
 This project is a 3D interactive snow globe web application built using React and Three.js. The application features a festive scene with a snow globe that users can interact with. The scene includes various 3D models, lighting effects, and post-processing effects to enhance the visual experience.
 
